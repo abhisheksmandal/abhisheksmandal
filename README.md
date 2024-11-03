@@ -1,21 +1,93 @@
-# Welcome to My GitHub Profile!
+# Abhishek Mandal 🌟
 
-## About Me
-Hi! I'm Abhishek Mandal, a passionate learner and developer.
+[https://abhishek-mandal.netlify.app](https://abhishek-mandal.netlify.app) 🌐
 
-## What I Do
-- 🎨 Interested in **Photography**
-- 💻 Exploring **DevOps** and **Web Development**
-- 🚀 Currently learning **Ansible** and **Docker**
+Welcome to my profile! 🎉 I am a passionate DevOps enthusiast with a strong background in system administration, seeking opportunities to leverage my containerization and automation skills to optimize development workflows and enhance system reliability. 🚀
 
-## Projects
-Here are some of the projects I've worked on:
-- [Project 1](link-to-project) - A brief description of what the project does.
-- [Project 2](link-to-project) - A brief description of what the project does.
+## Objective 🎯
 
-## Connect with Me
-- [LinkedIn](your-linkedin-url)
-- [Twitter](your-twitter-url)
-- [Instagram](your-instagram-url)
+DevOps enthusiast with a strong system administration background, seeking opportunities to leverage containerization and automation skills to optimize development workflows and enhance system reliability. Passionate about implementing modern DevOps practices and continuous learning. 📚
 
-Feel free to explore my repositories and connect with me!
+## Technical Skills 🛠️
+
+### Containerization & Orchestration
+- Docker 🐳
+- Docker Compose 📦
+- Kubernetes (learning phase) 📈
+
+### System Administration
+- Linux (Debian, Ubuntu) 🐧
+- Shell Scripting 🖥️
+- LAMP Stack Management 🌐
+
+### Automation & Configuration
+- Ansible 🤖
+- Bash Scripting 📜
+- Automated Deployment ⚙️
+
+### Cloud & Infrastructure
+- AWS (EC2, S3, Basic Networking) ☁️
+- Virtualization 🖥️
+- Server Management 🖥️
+
+### Security & Compliance 🔒
+- System Hardening 🛡️
+- Security Auditing 🔍
+- Vulnerability Assessment ⚠️
+
+### Networking & DNS 🌐
+- DNS Configuration 🌐
+- Network Security 🔐
+- SSL/TLS 🔒
+- Load Balancing ⚖️
+
+### Development Tools ⚙️
+- Git 🧑‍💻
+- GitHub 💻
+- CI/CD Pipelines 🚀
+- Collaborative Development 🤝
+
+### Programming & Scripting 💻
+- JavaScript (Node.js, React.js) 💻
+- Python 🐍
+- HTML/CSS 🎨
+
+### Databases & Data Management 📊
+- PostgreSQL 🗃️
+- MySQL 🗄️
+- Database Administration 🛠️
+
+## Education 🎓
+
+**Bachelor of Computer Applications**  
+DMC College, Assagao (2020 - 2023)  
+CGPA: 8.80 📈
+
+**Relevant Coursework:**
+- Advanced Web Technologies and Development 💻
+- Database Management Systems 📊
+- Computer Networks and Security 🔐
+- Operating Systems and System Administration 🖥️
+- Software Engineering and Development Practices 📚
+
+**Higher Secondary (Computer Science)**  
+DMs HSS, Assagao (2018 - 2020)  
+Percentage: 73% 📄
+
+**Secondary School**  
+L.F.J.H.S, Calangute (2018)  
+Percentage: 72.5% 📄
+
+## Key Projects 💼
+- **Automated Deployment System**: Developed shell scripts for streamlined application deployment. 📜
+- **LAMP Stack Optimization**: Configured and fine-tuned web servers for optimal performance. ⚙️
+- **SETU HRMS**: Full-stack application focused on scalability and user experience. 🌟
+
+## Additional Interests 🌍
+- Photography enthusiast with a keen eye for composition 📸.
+- Continuous learner, regularly exploring new technologies 📚.
+- Active participant in tech communities and forums 🤝.
+- Enjoys traveling and experiencing different cultures ✈️.
+
+## Connect with Me 🤙
+- Website: [https://abhishek-mandal.netlify.app](https://abhishek-mandal.netlify.app) 🌐
