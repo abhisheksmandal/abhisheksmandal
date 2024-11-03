@@ -1,102 +1,101 @@
 # 🌟 Abhishek Mandal
 
-[🌐 My Portfolio](https://abhishek-mandal.netlify.app/) 
+Welcome to my digital playground! 🎠 Explore the magic of my portfolio, where innovation and creativity collide to shape the future of digital experiences. Join me on this journey of exploration and discovery! 🌍
+
+## 📫 Say Hello
+**Email:** [official.abhishek.mandal@gmail.com](mailto:official.abhishek.mandal@gmail.com)  
+**WhatsApp:** [+91 9112084490](https://wa.me/919112084490)  
 
 ---
 
-## 🎯 Objective
-**DevOps enthusiast** with a strong system administration background, seeking opportunities to leverage my containerization and automation skills to optimize development workflows and enhance system reliability. Passionate about implementing modern DevOps practices and continuous learning! 📚
+## 👤 About Me
+
+### My Introduction
+Hello! I'm **Abhishek Mandal**, a passionate Developer dedicated to continual learning and growth, crafting captivating digital experiences through innovative creativity and design. 🚀
+
+### Experience
+- **1 Year Working** 🗓️
+- **Completed 5+ Projects** ✅
+- **Support**: Online 24/7 🕒
+
+**[Download Resume](#)** 📄
 
 ---
 
-## 🛠️ Technical Skills
+## 💻 Skills
 
-### **Containerization & Orchestration**
-- 🐳 **Docker**
-- 📦 **Docker Compose**
-- 📈 **Kubernetes** (learning phase)
+### My Technical Level
 
-### **System Administration**
-- 🐧 **Linux** (Debian, Ubuntu)
-- 🖥️ **Shell Scripting**
-- 🌐 **LAMP Stack Management**
+#### Frontend
+- **HTML**: Basic 🌱
+- **CSS**: Intermediate 🌼
+- **JavaScript**: Intermediate 🌟
+- **React**: Intermediate 🌟
+- **Tailwind**: Beginner 🌱
 
-### **Automation & Configuration**
-- 🤖 **Ansible**
-- 📜 **Bash Scripting**
-- ⚙️ **Automated Deployment**
+#### Backend
+- **PHP**: Beginner 🌱
+- **NodeJS**: Intermediate 🌟
+- **Python**: Intermediate 🌟
+- **C/C++**: Intermediate 🌟
+- **Java**: Intermediate 🌟
+- **SQL**: Intermediate 🌟
 
-### **Cloud & Infrastructure**
-- ☁️ **AWS** (EC2, S3, Basic Networking)
-- 🖥️ **Virtualization**
-- 🖥️ **Server Management**
-
-### **Security & Compliance**
-- 🛡️ **System Hardening**
-- 🔍 **Security Auditing**
-- ⚠️ **Vulnerability Assessment**
-
-### **Networking & DNS**
-- 🌐 **DNS Configuration**
-- 🔐 **Network Security**
-- 🔒 **SSL/TLS**
-- ⚖️ **Load Balancing**
-
-### **Development Tools**
-- 🧑‍💻 **Git**
-- 💻 **GitHub**
-- 🚀 **CI/CD Pipelines**
-- 🤝 **Collaborative Development**
-
-### **Programming & Scripting**
-- 💻 **JavaScript** (Node.js, React.js)
-- 🐍 **Python**
-- 🎨 **HTML/CSS**
-
-### **Databases & Data Management**
-- 🗃️ **PostgreSQL**
-- 🗄️ **MySQL**
-- 🛠️ **Database Administration**
+#### DevOps
+- **Linux**: Intermediate 🌟
+- **Docker**: Intermediate 🌟
+- **Ansible**: Intermediate 🌟
+- **Git/GitHub**: Intermediate 🌟
+- **Apache/Nginx**: Intermediate 🌟
 
 ---
 
-## 🎓 Education
+## 🔧 Services
 
-**Bachelor of Computer Applications**  
-*DMC College, Assagao* (2020 - 2023)  
-📈 **CGPA:** 8.80
-
-**Relevant Coursework:**
-- 💻 Advanced Web Technologies and Development
-- 📊 Database Management Systems
-- 🔐 Computer Networks and Security
-- 🖥️ Operating Systems and System Administration
-- 📚 Software Engineering and Development Practices
-
-**Higher Secondary (Computer Science)**  
-*DMs HSS, Assagao* (2018 - 2020)  
-📄 **Percentage:** 73%
-
-**Secondary School**  
-*L.F.J.H.S, Calangute* (2018)  
-📄 **Percentage:** 72.5%
+### What I Offer
+- **Front-end Development** 🖥️
+  - [View More](#)
+  
+- **Back-end Development** 🔧
+  - [View More](#)
+  
+- **DevOps Engineering** ⚙️
+  - [View More](#)
 
 ---
 
-## 💼 Key Projects
-- **Automated Deployment System**: Developed shell scripts for streamlined application deployment. 📜
-- **LAMP Stack Optimization**: Configured and fine-tuned web servers for optimal performance. ⚙️
-- **SETU HRMS**: Full-stack application focused on scalability and user experience. 🌟
+## 🎓 Qualification
+
+### My Personal Journey
+
+#### Education
+- **Bachelor of Computer Applications**  
+  Dnyanprassarak Mandal's College and Research Centre  
+  *2020 - 2023*
+
+- **12th (Computer Science)**  
+  Dnyanprassarak Mandal's Higher Secondary School  
+  *2018 - 2020*
 
 ---
 
-## 🌍 Additional Interests
-- 📸 **Photography enthusiast** with a keen eye for composition.
-- 📚 **Continuous learner**, regularly exploring new technologies.
-- 🤝 **Active participant** in tech communities and forums.
-- ✈️ Enjoys traveling and experiencing different cultures.
+## 🖼️ Projects
+
+### Most Recent
+**Patience, friend!** Our project gallery is under construction. Big things ahead! 🚧✨
 
 ---
 
-## 🤙 Connect with Me
-- 🌐 [My Portfolio](https://abhishek-mandal.netlify.app/) 
+## 📞 Get in Touch!
+**Talk to me!**  
+- **Email**: [official.abhishek.mandal@gmail.com](mailto:official.abhishek.mandal@gmail.com)  
+- **WhatsApp**: [+91 9112084490](https://wa.me/919112084490)  
+
+### Send me a message
+- **Name**: Insert your name
+- **Email**: Insert your email id
+- **Project**: Write your message
+
+---
+
+© 2024 Abhishek Mandal. All rights reserved. 🌟
