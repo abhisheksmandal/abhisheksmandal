@@ -1,101 +1,77 @@
-# 🌟 Abhishek Mandal
+# Abhishek Mandal
 
-Welcome to my digital playground! 🎠 Explore the magic of my portfolio, where innovation and creativity collide to shape the future of digital experiences. Join me on this journey of exploration and discovery! 🌍
-
-## 📫 Say Hello
-**Email:** [official.abhishek.mandal@gmail.com](mailto:official.abhishek.mandal@gmail.com)  
-**WhatsApp:** [+91 9112084490](https://wa.me/919112084490)  
+Welcome to my digital playground! 🎉 I'm a passionate Developer and DevOps enthusiast dedicated to crafting innovative digital experiences. Explore my portfolio and discover the magic of creativity and technology.
 
 ---
 
-## 👤 About Me
-
-### My Introduction
-Hello! I'm **Abhishek Mandal**, a passionate Developer dedicated to continual learning and growth, crafting captivating digital experiences through innovative creativity and design. 🚀
-
-### Experience
-- **1 Year Working** 🗓️
-- **Completed 5+ Projects** ✅
-- **Support**: Online 24/7 🕒
-
-**[Download Resume](#)** 📄
-
----
-
-## 💻 Skills
-
-### My Technical Level
-
-#### Frontend
-- **HTML**: Basic 🌱
-- **CSS**: Intermediate 🌼
-- **JavaScript**: Intermediate 🌟
-- **React**: Intermediate 🌟
-- **Tailwind**: Beginner 🌱
-
-#### Backend
-- **PHP**: Beginner 🌱
-- **NodeJS**: Intermediate 🌟
-- **Python**: Intermediate 🌟
-- **C/C++**: Intermediate 🌟
-- **Java**: Intermediate 🌟
-- **SQL**: Intermediate 🌟
-
-#### DevOps
-- **Linux**: Intermediate 🌟
-- **Docker**: Intermediate 🌟
-- **Ansible**: Intermediate 🌟
-- **Git/GitHub**: Intermediate 🌟
-- **Apache/Nginx**: Intermediate 🌟
-
----
-
-## 🔧 Services
-
-### What I Offer
-- **Front-end Development** 🖥️
-  - [View More](#)
-  
-- **Back-end Development** 🔧
-  - [View More](#)
-  
-- **DevOps Engineering** ⚙️
-  - [View More](#)
-
----
-
-## 🎓 Qualification
-
-### My Personal Journey
-
-#### Education
-- **Bachelor of Computer Applications**  
-  Dnyanprassarak Mandal's College and Research Centre  
-  *2020 - 2023*
-
-- **12th (Computer Science)**  
-  Dnyanprassarak Mandal's Higher Secondary School  
-  *2018 - 2020*
-
----
-
-## 🖼️ Projects
-
-### Most Recent
-**Patience, friend!** Our project gallery is under construction. Big things ahead! 🚧✨
-
----
-
-## 📞 Get in Touch!
-**Talk to me!**  
+## Contact Me
 - **Email**: [official.abhishek.mandal@gmail.com](mailto:official.abhishek.mandal@gmail.com)  
 - **WhatsApp**: [+91 9112084490](https://wa.me/919112084490)  
-
-### Send me a message
-- **Name**: Insert your name
-- **Email**: Insert your email id
-- **Project**: Write your message
+- **LinkedIn**: [linkedin.com/in/abhisheksmandal](https://www.linkedin.com/in/abhisheksmandal)  
+- **GitHub**: [github.com/abhisheksmandal](https://github.com/abhisheksmandal)  
+- **Website**: [abhishek-mandal.netlify.app](https://abhishek-mandal.netlify.app/)  
 
 ---
 
-© 2024 Abhishek Mandal. All rights reserved. 🌟
+## About Me
+I’m Abhishek Mandal, an enthusiast learner with **1 year of experience** in Development and **5+ completed projects**. My goal is to leverage my skills in **DevOps**, **Full Stack Development**, and **System Administration** to enhance workflows and deliver high-quality solutions. 
+
+---
+
+## Skills
+### Technical Proficiencies
+- **Frontend**: HTML, CSS, JavaScript, React, Tailwind
+- **Backend**: Node.js, Python, Java, C/C++, SQL
+- **DevOps**: Linux, Docker, Ansible, Git/GitHub, Apache/Nginx
+
+### Additional Skills
+- **Containerization & Orchestration**: Docker, Kubernetes (learning)
+- **Cloud & Infrastructure**: AWS (EC2, S3), Virtualization
+- **Database Management**: PostgreSQL, MySQL
+- **Scripting**: Shell Scripting, Bash
+
+---
+
+## Experience
+### Junior DevOps System Administrator  
+**SAPNATECH INDIA LLP**, Goa, India (Nov 2023 - Present)
+- Managed Docker containers, improving deployment efficiency by 40%
+- Developed shell scripts for automated deployment and system maintenance
+- Configured LAMP stack environments, achieving 99.9% uptime
+
+### Helpdesk Engineer  
+**MICROSENSE NETWORKS PRIVATE LIMITED**, Candolim, Goa (Jun 2023 - Nov 2023)
+- Managed network infrastructure, ensuring high availability and performance
+- Provided technical support for complex network issues
+
+### Full Stack Development Intern  
+**HDSOFT Technologies Private Limited**, Bicholim, Goa (Jan 2019 - Jun 2019)
+- Developed a Human Resource Management System using React.js and Node.js
+
+---
+
+## Education
+**Bachelor of Computer Applications**  
+Dnyanprassarak Mandal's College and Research Centre (2020 - 2023)  
+CGPA: 8.80
+
+**Higher Secondary (Computer Science)**  
+Dnyanprassarak Mandal's Higher Secondary School (2018 - 2020)  
+Percentage: 73%
+
+---
+
+## Key Projects
+- **Automated Deployment System**: Developed shell scripts for streamlined deployment.
+- **SETU HRMS**: Full-stack application focusing on user experience and scalability.
+
+---
+
+## Additional Interests
+- Photography enthusiast 📸
+- Continuous learner and tech explorer 🔍
+- Enjoys traveling and cultural experiences 🌍
+
+---
+
+**Let’s connect and create something amazing together!** 
