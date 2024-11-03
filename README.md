@@ -4,27 +4,28 @@ Welcome to my digital playground! I'm a passionate Developer and DevOps enthusia
 
 ---
 
-## ✉️ Contact Me
-- **Email**: [official.abhishek.mandal@gmail.com](mailto:official.abhishek.mandal@gmail.com)  
-- **WhatsApp**: [+91 9112084490](https://wa.me/919112084490)  
-- **LinkedIn**: [linkedin.com/in/abhisheksmandal](https://www.linkedin.com/in/abhisheksmandal)  
-- **GitHub**: [github.com/abhisheksmandal](https://github.com/abhisheksmandal)  
-- **Website**: [abhishek-mandal.netlify.app](https://abhishek-mandal.netlify.app/)  
+## ✉️ Contact Information
+| **Email**: [official.abhishek.mandal@gmail.com](mailto:official.abhishek.mandal@gmail.com) | **WhatsApp**: [+91 9112084490](https://wa.me/919112084490) |
+|:-------------------------------------------------------:|:--------------------------------------------------------:|
+| **LinkedIn**: [linkedin.com/in/abhisheksmandal](https://www.linkedin.com/in/abhisheksmandal) | **GitHub**: [github.com/abhisheksmandal](https://github.com/abhisheksmandal) |
+| **Website**: [abhishek-mandal.netlify.app](https://abhishek-mandal.netlify.app/) |  |
 
 ---
 
 ## 🧑‍💻 About Me
-I'm Abhishek Mandal, an **enthusiast learner** with **1 year of experience** in Development and a strong passion for **DevOps**, **Full Stack Development**, and **System Administration**. My goal is to leverage my skills to enhance workflows and deliver high-quality solutions.
+Hello! I'm Abhishek Mandal, an **enthusiastic learner** with **1 year of experience** in Development. I have a strong passion for **DevOps**, **Full Stack Development**, and **System Administration**. My goal is to leverage my skills to enhance workflows and deliver high-quality solutions.
 
 ---
 
-## 💼 Experience
+## 💼 Professional Experience
 ### Junior DevOps System Administrator  
 **SAPNATECH INDIA LLP**, Goa, India  
 *Nov 2023 - Present*  
-- Managed Docker containers, improving deployment efficiency by 40%.
+- Implemented Docker containers, improving deployment efficiency by **40%**.
 - Developed shell scripts for automated deployment and system maintenance.
-- Configured LAMP stack environments, achieving 99.9% uptime.
+- Configured LAMP stack environments, achieving **99.9% uptime**.
+
+---
 
 ### Helpdesk Engineer  
 **MICROSENSE NETWORKS PRIVATE LIMITED**, Candolim, Goa  
@@ -32,24 +33,27 @@ I'm Abhishek Mandal, an **enthusiast learner** with **1 year of experience** in 
 - Managed network infrastructure, ensuring high availability and performance.
 - Provided technical support for complex network issues.
 
+---
+
 ### Full Stack Development Intern  
 **HDSOFT Technologies Private Limited**, Bicholim, Goa  
 *Jan 2019 - Jun 2019*  
-- Developed a Human Resource Management System using React.js and Node.js.
+- Developed a Human Resource Management System using **React.js** and **Node.js**.
 
 ---
 
-## 🛠️ Skills
-### Technical Proficiencies
-- **Frontend**: HTML, CSS, JavaScript, React, Tailwind
-- **Backend**: Node.js, Python, Java, C/C++, SQL
-- **DevOps**: Linux, Docker, Ansible, Git/GitHub, Apache/Nginx
+## 🛠️ Technical Skills
+### Frontend Development
+- **Languages**: HTML, CSS, JavaScript, React
+- **Frameworks**: Tailwind
 
-### Additional Skills
-- **Containerization & Orchestration**: Docker, Kubernetes (learning)
-- **Cloud & Infrastructure**: AWS (EC2, S3), Virtualization
-- **Database Management**: PostgreSQL, MySQL
-- **Scripting**: Shell Scripting, Bash
+### Backend Development
+- **Languages**: Node.js, Python, Java, C/C++
+- **Databases**: SQL
+
+### DevOps Skills
+- **Tools**: Docker, Ansible, Git/GitHub, Apache/Nginx
+- **Operating Systems**: Linux
 
 ---
 
@@ -57,17 +61,19 @@ I'm Abhishek Mandal, an **enthusiast learner** with **1 year of experience** in 
 **Bachelor of Computer Applications**  
 *Dnyanprassarak Mandal's College and Research Centre*  
 *2020 - 2023*  
-CGPA: 8.80
+**CGPA**: 8.80
+
+---
 
 **Higher Secondary (Computer Science)**  
 *Dnyanprassarak Mandal's Higher Secondary School*  
 *2018 - 2020*  
-Percentage: 73%
+**Percentage**: 73%
 
 ---
 
 ## 🌱 Additional Interests
-- **Photography Enthusiast**: A keen eye for composition and capturing moments. 📸
+- **Photography**: Enthusiast with a keen eye for composition. 📸
 - **Tech Explorer**: Continuously learning and exploring new technologies. 🔍
 - **Traveler**: Enjoys traveling and experiencing different cultures. 🌍
 
