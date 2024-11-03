@@ -1,16 +1,21 @@
-## Hi there 👋
+# Welcome to My GitHub Profile!
 
-<!--
-**abhisheksmandal/abhisheksmandal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+Hi! I'm Abhishek Mandal, a passionate learner and developer.
 
-Here are some ideas to get you started:
+## What I Do
+- 🎨 Interested in **Photography**
+- 💻 Exploring **DevOps** and **Web Development**
+- 🚀 Currently learning **Ansible** and **Docker**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+Here are some of the projects I've worked on:
+- [Project 1](link-to-project) - A brief description of what the project does.
+- [Project 2](link-to-project) - A brief description of what the project does.
+
+## Connect with Me
+- [LinkedIn](your-linkedin-url)
+- [Twitter](your-twitter-url)
+- [Instagram](your-instagram-url)
+
+Feel free to explore my repositories and connect with me!
